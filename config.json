@@ -1,0 +1,9 @@
+{
+	"ip":"Game2.falixserver.net",
+	"port": 37976,
+	"name": "callmehdaddy",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (debupapa) (debupapa)",
+	"login-cmd":"/login (debupapa)"
+}
